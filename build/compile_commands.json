@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/muke/StateMachine/build",
+  "command": "/usr/bin/g++-7      -o CMakeFiles/ssm.dir/StateMachine.cpp.o -c /home/muke/StateMachine/StateMachine.cpp",
+  "file": "/home/muke/StateMachine/StateMachine.cpp"
+},
+
+{
+  "directory": "/home/muke/StateMachine/build",
+  "command": "/usr/bin/g++-7      -o CMakeFiles/ssm.dir/StateController.cpp.o -c /home/muke/StateMachine/StateController.cpp",
+  "file": "/home/muke/StateMachine/StateController.cpp"
+}
+]

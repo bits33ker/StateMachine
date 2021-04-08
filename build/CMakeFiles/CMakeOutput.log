@@ -1,0 +1,35 @@
+The system is: Linux - sh: 0: getcwd() failed: No such file or directory
+5.4.72-microsoft-standard-WSL2 - sh: 0: getcwd() failed: No such file or directory
+x86_64
+Determining if the C compiler works passed with the following output:
+Change Dir: /home/muke/StateMachine/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_7cb50"
+[1/2] Building C object CMakeFiles/cmTC_7cb50.dir/testCCompiler.c.o
+[2/2] Linking C executable cmTC_7cb50
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /home/muke/StateMachine/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_132d2"
+[1/2] Building C object CMakeFiles/cmTC_132d2.dir/CMakeCCompilerABI.c.o
+[2/2] Linking C executable cmTC_132d2
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /home/muke/StateMachine/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_77b77"
+[1/2] Building CXX object CMakeFiles/cmTC_77b77.dir/testCXXCompiler.cxx.o
+[2/2] Linking CXX executable cmTC_77b77
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /home/muke/StateMachine/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_01ef7"
+[1/2] Building CXX object CMakeFiles/cmTC_01ef7.dir/CMakeCXXCompilerABI.cpp.o
+[2/2] Linking CXX executable cmTC_01ef7
+
+
